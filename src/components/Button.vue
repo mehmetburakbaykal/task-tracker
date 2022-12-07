@@ -17,7 +17,7 @@ export default {
 }
 </script>
 
-<style scope>
+<style scoped>
 button {
     color: white;
     padding: 10px 18px;
